@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Parv
 
 A passionate web developer who loves crafting clean, responsive, and accessible websites using **HTML**, **CSS**, and **JavaScript** ✨  
-Curious about how the web works — from building static pages to adding dynamic interactions with vanilla JS 🌐  
+Curious about how the web works — from building static pages to adding dynamic interactions with JS 🌐  
 Currently exploring the frontend ecosystem and strengthening my skills in **DSA** and modern web practices 🚀  
 📌 Open to internship opportunities and collaborative web projects!
 
