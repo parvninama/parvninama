@@ -1,9 +1,9 @@
-## Hi there, I'm Parv 👋</br>
+## 👋 Hi there, I'm Parv
 
-Developer who loves writing clean code in **C++** ✨  
-Curious about the frontend world | Learning **JavaScript** & **DSA**  
-Exploring **web development**, one project at a time 🚀  
-📌 Open to internship opportunities and collaboration!
+A passionate web developer who loves crafting clean, responsive, and accessible websites using **HTML**, **CSS**, and **JavaScript** ✨  
+Curious about how the web works — from building static pages to adding dynamic interactions with vanilla JS 🌐  
+Currently exploring the frontend ecosystem and strengthening my skills in **DSA** and modern web practices 🚀  
+📌 Open to internship opportunities and collaborative web projects!
 
 ## Tech Stack 🖥️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
