@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Parv
 
-Interested in Learning new things
-Currently learning Node.js + Express
+Interested in Learning new things  
+Currently learning Node.js + Express  
 
 ## Tech Stack 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
