@@ -17,6 +17,8 @@ Currently exploring the frontend ecosystem and strengthening my skills in modern
 
 
 
-### 📫 Reach Me
+###Reach Me
 
-📧 **Email**: [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)
+**Email**: [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)
+**LinkedIn**: https://linkedin.com/in/parv-ninama
+**Discord**: https://discord.com/users/759852791639965707
