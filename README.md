@@ -16,9 +16,9 @@ Currently exploring the frontend ecosystem and strengthening my skills in modern
 ![](https://github-contributor-stats.vercel.app/api?username=parvninama&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
 ### Reach Me
 
-**Email**: [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)
-**LinkedIn**: [Parv Ninama](https://linkedin.com/in/parv-ninama)
-**Discord**: [Parv](https://discord.com/users/759852791639965707)
+**Email:** [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)  
+**LinkedIn:** [Parv Ninama](https://linkedin.com/in/parv-ninama)  
+**Discord:** [Parv](https://discord.com/users/759852791639965707)
+
