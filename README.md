@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Parv
+## Hi there, I'm Parv
 
 I am interested in learning new things  
   
