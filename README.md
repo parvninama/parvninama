@@ -22,7 +22,6 @@ I am interested in learning things.
 
 ### Reach Me
 
-**Email:** [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)  
-**LinkedIn:** [Parv Ninama](https://linkedin.com/in/parv-ninama)  
+**Email:** [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)    
 **Discord:** [Parv](https://discord.com/users/759852791639965707)
 
