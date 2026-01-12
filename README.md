@@ -1,6 +1,5 @@
 ## Hi there, I'm Parv
-
-I am interested in learning things.
+Exploring my way through internet.
 
 ## Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
