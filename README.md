@@ -15,12 +15,7 @@ Exploring my way through internet.
 ![](https://nirzak-streak-stats.vercel.app/?user=parvninama&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvninama&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=parvninama&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ### Reach Me
-
 **Email:** [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)    
 **Discord:** [Parv](https://discord.com/users/759852791639965707)
 
