@@ -1,4 +1,5 @@
 ## Hi there, I'm Parv
+
 Exploring my way through internet.
 
 ## Tech Stack 
@@ -11,10 +12,5 @@ Exploring my way through internet.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ## GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=parvninama&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parvninama&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvninama&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Reach Me
-**Email:** [ninamaparv@gmail.com](mailto:ninamaparv@gmail.com)    
-**Discord:** [Parv](https://discord.com/users/759852791639965707)
+![](https://github-readme-stats.vercel.app/api?username=parvninama&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false_&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=parvninama&theme=graywhite&hide_border=false)<br/>
