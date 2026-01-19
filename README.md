@@ -3,14 +3,22 @@
 Exploring my way through internet.
 
 ## Tech Stack 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%230076B6.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
 ## GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=parvninama&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false_&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parvninama&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=parvninama&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false_&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=parvninama&theme=rose_pine&hide_border=false)<br/>
