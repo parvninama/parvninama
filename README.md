@@ -1,7 +1,7 @@
 ## Hi there, I'm Parv
 
-I'm exploring open source by building things, fixing bugs, and learning as I go. 
-I enjoy improving developer tools and workflows, and I’m always open to learning something new :)
+I’m exploring open source by contributing, breaking things, fixing them, and learning along the way. 
+I enjoy working on developer tools and automation and I’m always open to learning something new :)
 
 
 ## GitHub Stats 
