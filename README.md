@@ -1,6 +1,8 @@
 ## Hi there, I'm Parv
 
-Exploring my way through internet.
+I'm exploring open source by building things, fixing bugs, and learning as I go. 
+I enjoy improving developer tools and workflows, and I’m always open to learning something new :)
+
 
 ## GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=parvninama&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false_&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true)<br/>
