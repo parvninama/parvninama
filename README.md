@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvninama&bg_color=1e1e2e&color=F5F0F6&line=F5F0F6&point=EDE7F0&area=true&hide_border=true" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvninama&bg_color=1e1e2e&color=F5F0F6&line=F5F0F6&point=EDE7F0&area=true&hide_border=true" width="100%">
 </p>
 
 <br><br>
