@@ -13,7 +13,7 @@
 <!-- Main Character -->
 <img src="assets/main.gif" width="22%" />
 
-<br><br>
+<br>
 
 <!-- About Section -->
 <pre>
@@ -31,8 +31,6 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=parvninama&bg_color=0D1117&color=F5F0F6&line=8B0000&point=8B0000&area=true&hide_border=true" 
   width="95%"
 />
-
-<br>
 
 <!-- GitHub Stats -->
 <div align="center">
