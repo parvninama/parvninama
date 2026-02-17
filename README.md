@@ -8,9 +8,9 @@
   width="80%" 
 />
 
-<br>
 
-<!-- Main Character -->
+
+<!-- Main Gif -->
 <img src="assets/main.gif" width="22%" />
 
 <br>
@@ -34,7 +34,6 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-
   <tr>
     <td align="center">
       <h4 style="color:#8B0000; margin:0 0 15px 0;">
@@ -62,8 +61,8 @@
 
 </div>
 
-<!-- Kyubey Accent -->
-<br><br>
+<!-- Kyubey gif -->
+<br>
 
 <img src="assets/kyubey.gif" height="50" />
 
