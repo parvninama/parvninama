@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Main Character -->
-<img src="assets/main.gif" width="22%" />
-
 <br><br>
 
 <!-- Typing Intro -->
@@ -11,6 +8,8 @@
   width="80%" 
 />
 
+<!-- Main Character -->
+<img src="assets/main.gif" width="22%" />
 <br><br>
 
 <!-- About Section -->
@@ -32,7 +31,7 @@
 
 <br><br>
 
-<!-- Small Kyubey Accent -->
+<!-- Kyubey  -->
 <img src="assets/kyubey.gif" height="50" />
 
 <br><br>
