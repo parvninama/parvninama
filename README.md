@@ -8,7 +8,7 @@
   width="80%" 
 />
 
-<br><br>
+<br>
 
 <!-- Main Character -->
 <img src="assets/main.gif" width="22%" />
@@ -39,9 +39,9 @@
 
   <tr>
     <td align="center">
-      <h3 style="color:#8B0000; margin:0 0 15px 0;">
+      <h4 style="color:#8B0000; margin:0 0 15px 0;">
         Parv's Stats
-      </h3>
+      </h4>
       <table border="0" cellspacing="0" cellpadding="0">
         <tr>
           <td>
