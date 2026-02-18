@@ -28,7 +28,7 @@
 
 <!-- Activity Graph -->
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=parvninama&bg_color=0D1117&color=F5F0F6&line=8B0000&point=8B0000&area=true&hide_border=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=parvninama&bg_color=0D1117&color=F5F0F6&line=8B0000&point=F5F0F6&area=true&hide_border=true" 
   width="95%"
 />
 
