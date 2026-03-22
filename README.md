@@ -4,21 +4,28 @@
 
 <!-- Typing Intro -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=4800&pause=600&color=F5F0F6&center=true&vCenter=true&multiline=true&repeat=false&width=910&height=140&lines=Hii+%2C+I'm+Parv;exploring+my+way+through+open+source+%7E" 
+  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=4800&pause=600&color=F5F0F6&center=true&vCenter=true&multiline=true&repeat=false&width=910&height=140&lines=Hi+%2C+I'm+Parv;exploring+my+way+through+open+source+%7E" 
   width="80%" 
 />
 
 
 
 <!-- Main Gif -->
-<img src="assets/main.gif" width="22%" />
+<a href="https://nupsu.me/">
+  <img src="assets/main.gif" width="22%" />
+</a>
+<div align="center">
+  <span style="font-size:12px;">
+    ✦ credit: nupsume
+  </span>
+</div>
 
 <br>
 
 <!-- About Section -->
 <pre>
 💼 Student • OSS Contributor • Curious Learner
-💻 JavaScript • React • Git
+💻 JavaScript • Yaml • Git
 🔧 GitHub Actions • CI • Docs & Workflows
 🌐 Open Source • Communities • Learning in Public
 🎮 Music • Games • Anime • Code
