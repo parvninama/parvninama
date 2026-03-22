@@ -8,16 +8,14 @@
   width="80%" 
 />
 
-
-
 <!-- Main Gif -->
 <a href="https://nupsu.me/">
   <img src="assets/main.gif" width="22%" />
 </a>
 <div align="center">
-  <span style="font-size:12px;">
+  <font color="B22222" size="2">
     ✦ credit: nupsume
-  </span>
+  </font>
 </div>
 
 <br>
@@ -25,9 +23,13 @@
 <!-- About Section -->
 <pre>
 💼 Student • OSS Contributor • Curious Learner
+  
 💻 JavaScript • Yaml • Git
-🔧 GitHub Actions • CI • Docs & Workflows
+  
+⚙️ automation • CI/CD • open source workflows
+  
 🌐 Open Source • Communities • Learning in Public
+  
 🎮 Music • Games • Anime • Code
 </pre>
 
