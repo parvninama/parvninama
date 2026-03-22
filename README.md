@@ -8,32 +8,30 @@
   width="80%" 
 />
 
-<!-- Main Gif -->
-<a href="https://nupsu.me/">
-  <img src="assets/main.gif" width="22%" />
-</a>
-<div align="center">
-  <font color="B22222" size="2">
-    ✦ credit: nupsume
-  </font>
-</div>
 
-<br>
-
-<!-- About Section -->
+<table width="100%">
+  <tr>
+    <!-- Left: About Section -->
+    <td style="padding: 20px 0;">
 <pre>
-💼 Student • OSS Contributor • Curious Learner
-  
-💻 JavaScript • Yaml • Git
-  
-⚙️ Automation • CI/CD • Workflows
-  
-🌐 Open Source • Communities • Learning in Public
-  
-🎮 Music • Games • Anime • Code
+💼 Student • OSS Contributor • Curious Learner <br>
+💻 JavaScript • YAML • Git <br>
+⚙️ Automation • CI/CD • Workflows <br>
+🌐 Open Source • Communities • Learning in Public <br>
+🎮 Music • Games • Anime • Code <br>
 </pre>
+    </td>
+    <!-- Right: GIF (fixed width) -->
+    <td align="center" width="200">
+      <a href="https://nupsu.me/">
+        <img src="assets/main.gif" width="100%" />
+      </a>
+      <br>
+      <sub>✦ credit: nupsume</sub>
+    </td>
+  </tr>
+</table>
 
-<br>
 
 <!-- Activity Graph -->
 <img 
