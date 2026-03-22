@@ -1,5 +1,4 @@
 <div align="center">
-
 <br>
 
 <!-- Typing Intro -->
@@ -8,7 +7,7 @@
   width="80%" 
 />
 
-
+<!-- About Section and GIF -->
 <table width="100%">
   <tr>
     <!-- Left: About Section -->
@@ -21,7 +20,7 @@
 🎮 Music • Games • Anime • Code <br>
 </pre>
     </td>
-    <!-- Right: GIF (fixed width) -->
+    <!-- Right: GIF -->
     <td align="center" width="200">
       <a href="https://nupsu.me/">
         <img src="assets/main.gif" width="100%" />
@@ -31,7 +30,6 @@
     </td>
   </tr>
 </table>
-
 
 <!-- Activity Graph -->
 <img 
@@ -44,7 +42,7 @@
   <tr>
     <td align="center">
       <h4 style="color:#8B0000; margin:0 0 15px 0;">
-        Parv's Stats
+        parvninama's Stats
       </h4>
       <table border="0" cellspacing="0" cellpadding="0">
         <tr>
@@ -65,17 +63,14 @@
     </td>
   </tr>
 </table>
-
 </div>
-
-<!-- Kyubey gif -->
 <br>
 
+<!-- Kyubey gif -->
 <img src="assets/kyubey.gif" height="50" />
 
 <!-- Profile Views Badge -->
 <img 
   src="https://komarev.com/ghpvc/?username=parvninama&style=for-the-badge&color=8B0000&labelColor=161B22&label=profile+views" 
 />
-
 </div>
