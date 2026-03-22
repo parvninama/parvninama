@@ -26,7 +26,7 @@
   
 💻 JavaScript • Yaml • Git
   
-⚙️ automation • CI/CD • open source workflows
+⚙️ Automation • CI/CD • Workflows
   
 🌐 Open Source • Communities • Learning in Public
   
