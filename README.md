@@ -48,14 +48,14 @@
         <tr>
           <td>
             <img 
-              src="https://github-readme-stats-sigma-five.vercel.app/api?username=parvninama&hide=contribs,issues&show_icons=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true&count_private=true"
+              src="https://github-readme-stats-sigma-five.vercel.app/api?username=parvninama&hide=contribs,issues,stars&show_icons=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true&count_private=true"
               height="170"
             />
           </td>
           <td width="60"></td>
           <td>
             <img 
-              src="https://nirzak-streak-stats.vercel.app/?user=parvninama&hide_border=true&background=0D1117&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B0000"
+              src="https://streak-stats.demolab.com/?user=parvninama&hide_border=true&background=0D1117&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B0000"
               height="170"
             />
           </td>
