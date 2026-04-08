@@ -1,9 +1,5 @@
 <div align="center">
-  
-<!-- Dark mode note -->
-<sub style="color:#161B22; display:block; margin:0; padding:0; line-height:1;">
-⚠️ Best viewed in dark mode
-</sub>
+<br>
 
 <!-- Typing Intro -->
 <img 
