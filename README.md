@@ -10,5 +10,5 @@
 🫧 CS student
 ⚙️ Open Source • Automation • CI/CD
 📦 Contributor Tooling • Maintainer Workflows
-🕹️ Games • Anime • Music
+🎮 Games • Anime • Music
 ```
