@@ -13,4 +13,4 @@
 🎮 Games • Anime • Music
 ```
 
-![Visited By](https://count.getloli.com/get/@parvninama?theme=booru-lewd)
+![Visited By](https://count.getloli.com/get/@parvninama?theme=booru-lewd&scale=1.3)
